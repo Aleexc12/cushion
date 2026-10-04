@@ -27,6 +27,18 @@ _Avoid_: community plugin, external extension, third-party plugin
 A named group of plugins that installs and uninstalls together.
 _Avoid_: bundle, suite, collection
 
+### Files
+
+**Embed**:
+A file's content rendered inline inside a note, written as `![[...]]`.
+Embeds are always Core.
+_Avoid_: inline viewer, transclusion
+
+**Viewer**:
+A tab that opens a file of a given type, for reading or editing it.
+A viewer may come from Core or from a plugin.
+_Avoid_: file view, editor extension
+
 ### Distribution
 
 **Registry**:
