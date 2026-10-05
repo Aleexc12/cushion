@@ -3,8 +3,10 @@ node_modules/
 
 # Reference implementations (cloned for research)
 inspo/
-docs/
 notes/
+
+# Throwaway notes
+.scratch/
 
 # AI tools
 .claude/
@@ -50,6 +52,3 @@ apps/frontend/public/excalidraw-assets/
 
 # TypeScript
 *.tsbuildinfo
-
-CLAUDE.md
-*.txt
