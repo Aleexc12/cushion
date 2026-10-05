@@ -23,6 +23,10 @@ _Avoid_: bundled extension, bundled plugin, core plugin
 A plugin that is not in the installer and is installed from the registry through the marketplace.
 _Avoid_: community plugin, external extension, third-party plugin
 
+**Local plugin**:
+A plugin loaded from a folder on the user's machine instead of the installer or the registry.
+_Avoid_: sideloaded plugin, dev plugin, unpacked plugin
+
 **Pack**:
 A named group of plugins that installs and uninstalls together.
 _Avoid_: bundle, suite, collection
