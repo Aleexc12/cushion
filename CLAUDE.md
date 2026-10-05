@@ -66,7 +66,8 @@ Clean, modular code. Small focused modules, clear separation of concerns, no unn
 - `/inspo` folder has apps that inspire cushion. Ignore this folder if not asked to search information here.
 - Use `ls` if you can't find any folder.
 - Use globals.css colors, do not add new colors. If you really need to, ask first.
-- `docs/implemented/` has architecture docs (ARCHITECTURE.md, tables-api.md, diff.md) — consult when working on related features.
+- `docs/extensions.md` describes the extension system and `docs/research/` holds research findings. Consult them when working on related features.
+- Put throwaway notes in `.scratch/` (gitignored), not in `docs/`.
 
 ## Agent skills
 

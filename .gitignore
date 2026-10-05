@@ -5,6 +5,9 @@ node_modules/
 inspo/
 notes/
 
+# Throwaway notes
+.scratch/
+
 # AI tools
 .claude/
 
