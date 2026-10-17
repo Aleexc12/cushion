@@ -2,7 +2,7 @@
 
 Research for [#53](https://github.com/Aleexc12/cushion/issues/53), part of the plugin system map [#48](https://github.com/Aleexc12/cushion/issues/48).
 Checked on 2026-10-05.
-Terms follow `CONTEXT.md`, so "registry" means the curated list and "marketplace" means the browsing UI.
+Terms follow `GLOSSARY.md`, so "registry" means the curated list and "marketplace" means the browsing UI.
 
 ## Short answer
 
